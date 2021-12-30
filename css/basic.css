@@ -1,0 +1,23 @@
+*{ margin: 0px; 
+   padding: 0px;}
+html,body{
+    margin:0; padding:0; height: 100%;
+    font-family:'맑은 고딕', Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+body{
+    width: 960px;
+    margin: 0 auto;
+}
+li{
+    list-style: none;
+    list-style-position: initial;
+}
+a{
+    text-decoration: none;
+    color : black;
+}
+a:visited{
+    text-decoration: none;
+    color : black;
+}
